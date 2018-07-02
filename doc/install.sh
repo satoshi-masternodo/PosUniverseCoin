@@ -1,8 +1,8 @@
 #!/bin/bash
 
 TMP_FOLDER=$(mktemp -d)
-CONFIG_FILE='Pos universe coin.conf'
-CONFIGFOLDER='/root/.Pos universe coin'
+CONFIG_FILE='Posuniversecoin.conf'
+CONFIGFOLDER='/root/.Posuniversecoin'
 COIN_DAEMON='Posuniversecoind'
 COIN_CLI='Posuniversecoind'
 COIN_PATH='/usr/local/bin/'
